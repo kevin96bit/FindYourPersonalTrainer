@@ -1,0 +1,25 @@
+body,html{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* Palestra.css */
+.img-fluid {
+  transition: transform 0.3s ease;
+  
+}
+
+.zoom {
+  transform: scale(1.1);
+}
+
+/* .nascondiTrainer{
+  display:none
+}
+
+.nascondiAllievo{
+  display: none;
+} */
+
